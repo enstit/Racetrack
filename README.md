@@ -2,9 +2,9 @@
 
 ## Overview
 
-<figure width="20%" style="float: right;">
-  <img src="./utils/Track1.png">
-  <figcaption align="center">Fig.1 - Example of Racetrack</figcaption>
+<figure width="20%" style="float:right; text-align:center;">
+  <img src="./utils/Track1.gif">
+  <figcaption>Fig.1 - Example of Racetrack trajectory</br>learned with Expected SARSA control.</figcaption>
 </figure>
 
 This repository contains the code for the final project of A.Y. 2022-2023 [Professor Antonio Celani](https://www.ictp.it/member/antonio-celani#biography)'s course on **Reinforcement Learning** at ICTP (*International Centre for Theoretical Physics* at Trieste, Italy).
